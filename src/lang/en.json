@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "task": "About task",
+    "map": "Map"
+  },
+  "map": {
+    "marker": "Marker",
+    "markers": "Markers",
+    "addressesListEmpty": "You don't have any added markers"
+  }
+}
